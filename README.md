@@ -1,5 +1,6 @@
 ### Hello 👋
-- Senior Software Engineer @ [Samsara🦉](https://www.samsara.com/) working on Data Platform Infra & [OEM Integrations](https://www.samsara.com/products/telematics/oem-integrations/)
+- Senior Software Engineer @ [Samsara 🦉](https://www.samsara.com/)
+- Experience on all ends of the stack from Cloud/Infra to Full-Stack to Data Platform Engineering
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jroof88)](https://git.io/streak-stats)
 

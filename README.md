@@ -1,6 +1,6 @@
 ### Hello 👋
 - Senior Software Engineer @ [Samsara 🦉](https://www.samsara.com/)
-- Experience on all ends of the stack from Cloud/Infra to Full-Stack to Data Platform Engineering
+- Experience on all ends of the stack from cloud/infra to full-stack to data platform 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jroof88)](https://git.io/streak-stats)
 
@@ -9,5 +9,5 @@
 - [Data Pipelines @ Samsara](https://www.samsara.com/blog/data-pipelines-at-samsara/) - Samsara Engineering Blog 2021
 
 ### Contact ☎️
-- Email: johnroof8@gmail.com
+- [johnroof8@gmail.com](mailto:johnroof8@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jroof88/)

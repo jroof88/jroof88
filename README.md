@@ -1,6 +1,6 @@
 ### Hello 👋
 - Senior Software Engineer @ [Samsara 🦉](https://www.samsara.com/)
-- Experience on all ends of the stack from cloud/infra to frontend to data platform 
+- Experience on all ends of the stack from cloud to frontend to data infra
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jroof88)](https://git.io/streak-stats)
 
